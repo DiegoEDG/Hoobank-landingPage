@@ -7,3 +7,9 @@ A awesome landing page for a fake bank focusing on a great UI/UX
 https://diegoedg.github.io/Hoobank-landingPage/
 
 ## Screenshot
+<img src='./public/screenshot.png'>
+
+## Technologies
+- React JS
+- Tailwind
+- Figma
