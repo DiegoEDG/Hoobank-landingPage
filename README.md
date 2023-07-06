@@ -1,15 +1,15 @@
 <h1 align='center'>Hoobank Landing Page 💰</h1>
 
-## Overview
+## Overview 📘
 A awesome landing page for a fake bank focusing on a great UI/UX
 
-## Demo
+## Demo 🌐
 https://diegoedg.github.io/Hoobank-landingPage/
 
-## Screenshot
+## Screenshot 📷
 <img src='./public/screenshot.png'>
 
-## Technologies
+## Technologies 💻
 - React JS
 - Tailwind
 - Figma
